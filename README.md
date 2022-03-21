@@ -5,5 +5,5 @@ Assignment 1: In the life.ipynb file implement a version of Conway's Game of Lif
 * Implement the `life.step()` method that evolves the cells of the board according to the standard 3-4 rules: 
     * if a living cell has 2 or 3 neighboring cells that are alive, it stays alive
     * if a dead cell has 3 neighboring cells that are alive, it becomes alive
-* Consider several realizations of a 50x50 board with a random initial configuration. Compute the average fraction of living cells as a function of number of steps. 
+* Consider several realizations of a 50x50 board with a random initial configuration. Compute and plot the average fraction of living cells as a function of number of steps. 
 * (Optional) Create an animation of the game of life.
